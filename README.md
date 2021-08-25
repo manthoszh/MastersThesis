@@ -1,5 +1,5 @@
 # MastersThesis
- Programs used to complete Masters Thesis
+ Programs used to complete Masters Thesis, All of which were written and debugged by Zachary Manthos
  
  Short Descriptions:
  - autocore-dof.py: Finds the 1 day autocorrelation of a dataset and calculates a DOF, degrees of freedom, factor to compensate for the autocorrelation
