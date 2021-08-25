@@ -13,3 +13,5 @@
  - pressure_phases.py: Cuts and organizes Era-Interim dataset for plotting pressure maps
  - pressure_to_netcdf.py: Converts Era-Interim dataset form cfgrib to netcdf
  - thesis.plots.py: Main plotting program for datasets calculated in other programs
+
+Thesis PREZ.pdf: This is the presentation used to defend my masters thesis. It did not convert to pdf well, presentation included animations, so some of the oddities are due to this fact.
