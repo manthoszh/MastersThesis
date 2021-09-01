@@ -2,7 +2,7 @@
  Programs used to complete Masters Thesis, All of which were written and debugged by Zachary Manthos
  
  Short Descriptions:
- - autocore-dof.py: Finds the 1 day autocorrelation of a dataset and calculates a DOF, degrees of freedom, factor to be use in statistical tests to compensate for the autocorrelation
+ - autocore-dof.py: Finds the 1 day autocorrelation of a dataset and calculates a DOF, degrees of freedom, factor to be use in statistical tests to compensate for autocorrelation in the data
  - binom_pro_test.py: Runs a Binomial Proportion Test
  - data.thesis.py: Initial slicing of the datasets for easier use
  - datetime.convert.py: Convert datetime structure of Era5 dataset to fit the other datasets used
