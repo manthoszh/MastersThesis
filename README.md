@@ -11,7 +11,7 @@
  - era5_conversion.py: Converts a single dimension, X only, dataset to a 2 dimension, X & Y, dataset
  - index.nao-pna.py: Converts NAO & PNA indexes, simple text file, to Xarray, netcdf, datasets
  - pressure_phases.py: Cuts and organizes Era-Interim dataset for plotting pressure maps
- - pressure_to_netcdf.py: Converts Era-Interim dataset form cfgrib to netcdf
+ - pressure_to_netcdf.py: Converts Era-Interim dataset from grib to netcdf
  - thesis.plots.py: Main plotting program for datasets calculated in other programs
 
 Thesis PREZ.pdf: This is the presentation used to defend my masters thesis. It did not convert to pdf well, presentation included animations, so some of the oddities are due to this fact.
